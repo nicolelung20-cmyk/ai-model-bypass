@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+*.p12
+config.ini
